@@ -1,4 +1,5 @@
 {
   "device": "sensor-01",
-  "status": "online"
+  "status": "online",
+  "temperature": 28.5
 }
